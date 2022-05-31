@@ -1,1 +1,0 @@
-this shell permission manenos 
