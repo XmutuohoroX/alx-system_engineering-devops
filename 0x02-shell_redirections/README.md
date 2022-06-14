@@ -1,0 +1,1 @@
+this folder contains solutions by i myself personaly on shell redirections and stuff
